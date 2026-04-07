@@ -31,3 +31,11 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/andrm-pixel/andrm-pixel/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
